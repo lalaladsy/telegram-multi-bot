@@ -311,4 +311,10 @@ telegram-multi-bot/
 ├── package.json
 ├── vercel.json             # /verify 重写到 api/verify
 └── .env.example            # 环境变量模板（照着填，别把真值提交进仓库）
+
+---
+
+## 开源协议
+
+本项目采用 [MIT 协议](LICENSE) 开源，可自由使用、修改和分发，保留原协议声明即可。
 ```
